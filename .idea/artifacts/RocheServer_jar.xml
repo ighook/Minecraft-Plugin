@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RocheServer:jar">
+    <output-path>$USER_HOME$/Desktop/마크/plugins</output-path>
+    <root id="archive" name="RocheServer.jar">
+      <element id="module-output" name="RocheServer" />
+    </root>
+  </artifact>
+</component>
