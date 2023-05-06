@@ -3,6 +3,6 @@ version: '1.0-SNAPSHOT'
 main: org.rocheserver.Main
 api-version: 1.19
 commands:
-  additem:
+  GiveOreBag:
     description: "커스텀 아이템을 추가합니다."
-    usage: "/additem"
+    usage: "/GiveOreBag"
